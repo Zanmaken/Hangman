@@ -8,6 +8,7 @@ namespace HangmanGame
         static void Main(string[] args)
         {
             //Test change for github
+            //Test change nr 2
             MainMenu();
         }
 
