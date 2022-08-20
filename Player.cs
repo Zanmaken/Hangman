@@ -9,6 +9,7 @@ namespace Hangman
     internal class Player
     {
         //Test change for player class
+        //Test change 2
         string name;
         int currentScore = 0;
         long highscore = 0;
